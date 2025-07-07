@@ -1,1 +1,1 @@
-# Cosmic-Covariance
+# Cosmic Covariance
