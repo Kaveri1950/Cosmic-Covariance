@@ -162,14 +162,6 @@ Moster et al., 2011
 
 ---
 
-## Future Work
-
-* Add interactive dashboards using Plotly or Streamlit
-* Extend to additional cosmological models
-* Integrate real observational datasets
-
----
-
 ## Author
 
 Kaveri Neeli
