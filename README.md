@@ -12,7 +12,6 @@ It computes the cosmic variance (σ_v) and dark matter variance (σ_DM) as a fun
 
 The pipeline supports multiple astronomical surveys and provides comparative analysis through visualizations and structured datasets.
 
----
 
 ## Features
 
