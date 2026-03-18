@@ -35,7 +35,6 @@ The pipeline supports multiple astronomical surveys and provides comparative ana
   - Cross-survey comparisons
   - σ_DM evolution
 
----
 
 ## Methodology
 
@@ -60,7 +59,6 @@ b(z) = b_0 (z + 1)^b_1 + b_2
 
 ```
 
----
 
 ## Project Structure
 
@@ -78,7 +76,6 @@ b(z) = b_0 (z + 1)^b_1 + b_2
 
 ````
 
----
 
 ## Installation
 
@@ -88,7 +85,6 @@ cd cosmic-variance-project
 pip install -r requirements.txt
 ````
 
----
 
 ## Usage
 
@@ -113,7 +109,6 @@ print(cosmic_variance)
 print(sigma_DM)
 ```
 
----
 
 ## Output
 
@@ -125,7 +120,6 @@ shape = (len(mean_z), len(mass_array))
 
 * Dark matter variance (σ_DM) values per redshift
 
----
 
 ## Visualizations
 
@@ -135,7 +129,6 @@ The notebook includes:
 * Survey-wise variance trends
 * Mass-dependent variance evolution
 
----
 
 ## Key Insights
 
@@ -144,8 +137,6 @@ The notebook includes:
 * Larger surveys (e.g., COSMOS) provide more stable estimates
 * Dark matter variance decreases with increasing redshift
 
----
-
 ## Tech Stack
 
 * Python
@@ -153,21 +144,12 @@ The notebook includes:
 * Pandas
 * Matplotlib
 
----
 
 ## Reference
 
 Moster et al., 2011
 "A Cosmic Variance Cookbook"
 
----
-
-## Author
-
-Kaveri Neeli
-B.Tech Space Science and Engineering
-
----
 
 ## License
 
