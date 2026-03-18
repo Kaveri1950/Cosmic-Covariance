@@ -1,4 +1,3 @@
-```markdown
 # Cosmic Variance Modeling and Survey Analysis
 
 ## Overview
